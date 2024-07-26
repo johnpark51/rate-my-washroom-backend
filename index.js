@@ -6,9 +6,11 @@ import locationRoutes from "./routes/locationRoutes.js";
 import washroomRoutes from "./routes/washroomRoutes.js";
 import reviewRoutes from "./routes/reviewRoutes.js";
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 5050;
 const app = express();
 app.use(express.static("public"));
+
+app.use(cors());
 
 /* MIDDLEWARE */
 app.use(
