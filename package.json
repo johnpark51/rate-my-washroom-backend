@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed:run": "knex seed:run",
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "migrate": "knex migrate:latest",
+    "seed:locations": "knex seed:run --specific=locations.js",
+    "seed:washrooms": "knex seed:run --specific=washrooms.js",
+    "seed:reviews": "knex seed:run --specific=reviews.js"
   },
   "keywords": [],
   "author": "",
