@@ -5,7 +5,7 @@ export default [
         content: "Customer service was very friendly in assisting me to where the washroom was, even though I wasn't a customer. Toilet paper was 3 ply and washroom was very clean. Great experience",
         washroom_id: 1,
         timestamp: "2024-01-01 08:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ export default [
         content: "Clean restroom with good facilities. Could use more ventilation.",
         washroom_id: 2,
         timestamp: "2024-01-02 12:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ export default [
         content: "The restroom was tidy and well-maintained. No complaints.",
         washroom_id: 3,
         timestamp: "2024-01-03 16:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ export default [
         content: "Decent restroom, but could be cleaner. Soap dispenser was empty.",
         washroom_id: 4,
         timestamp: "2024-01-04 20:15:00",
-        rating: 2,
+        rating: 2
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ export default [
         content: "Clean and spacious restroom. Pleasant experience overall.",
         washroom_id: 5,
         timestamp: "2024-01-05 00:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 6,
@@ -45,7 +45,7 @@ export default [
         content: "The restroom was clean and well-maintained. Would recommend.",
         washroom_id: 6,
         timestamp: "2024-01-06 04:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 7,
@@ -53,7 +53,7 @@ export default [
         content: "Decent restroom. Hand dryer was not working.",
         washroom_id: 7,
         timestamp: "2024-01-07 09:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 8,
@@ -61,7 +61,7 @@ export default [
         content: "The restroom was clean and had sufficient supplies. Good hygiene.",
         washroom_id: 8,
         timestamp: "2024-01-08 13:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 9,
@@ -69,7 +69,7 @@ export default [
         content: "Adequate restroom. Could improve cleanliness.",
         washroom_id: 9,
         timestamp: "2024-01-09 17:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 10,
@@ -77,7 +77,7 @@ export default [
         content: "The restroom was well-maintained and smelled fresh.",
         washroom_id: 10,
         timestamp: "2024-01-10 21:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 11,
@@ -85,7 +85,7 @@ export default [
         content: "Clean restroom with sufficient amenities.",
         washroom_id: 11,
         timestamp: "2024-01-11 02:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 12,
@@ -93,7 +93,7 @@ export default [
         content: "Good restroom experience. Clean and well-ventilated.",
         washroom_id: 12,
         timestamp: "2024-01-12 06:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 13,
@@ -101,7 +101,7 @@ export default [
         content: "The restroom was clean. Toilet paper was stocked.",
         washroom_id: 13,
         timestamp: "2024-01-13 10:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 14,
@@ -109,7 +109,7 @@ export default [
         content: "Decent restroom, but could be cleaner.",
         washroom_id: 14,
         timestamp: "2024-01-14 14:45:00",
-        rating: 2,
+        rating: 2
     },
     {
         id: 15,
@@ -117,7 +117,7 @@ export default [
         content: "Average restroom. Could use more attention to cleanliness.",
         washroom_id: 15,
         timestamp: "2024-01-15 19:00:00",
-        rating: 2,
+        rating: 2
     },
     {
         id: 16,
@@ -125,7 +125,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 16,
         timestamp: "2024-01-16 23:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 17,
@@ -133,7 +133,7 @@ export default [
         content: "The restroom was clean and well-lit. Pleasant experience.",
         washroom_id: 17,
         timestamp: "2024-01-17 03:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 18,
@@ -141,7 +141,7 @@ export default [
         content: "Decent restroom. Could be more spacious.",
         washroom_id: 18,
         timestamp: "2024-01-18 07:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 19,
@@ -149,7 +149,7 @@ export default [
         content: "Clean restroom. Hand soap was available.",
         washroom_id: 19,
         timestamp: "2024-01-19 12:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 20,
@@ -157,7 +157,7 @@ export default [
         content: "The restroom was clean and well-maintained. No issues.",
         washroom_id: 20,
         timestamp: "2024-01-20 16:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 21,
@@ -165,7 +165,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 21,
         timestamp: "2024-01-21 20:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 22,
@@ -173,7 +173,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 22,
         timestamp: "2024-01-22 00:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 23,
@@ -181,7 +181,7 @@ export default [
         content: "The restroom was clean. Could use more amenities.",
         washroom_id: 23,
         timestamp: "2024-01-23 05:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 24,
@@ -189,7 +189,7 @@ export default [
         content: "Decent restroom. Hand dryer was not working.",
         washroom_id: 24,
         timestamp: "2024-01-24 09:15:00",
-        rating: 2,
+        rating: 2
     },
     {
         id: 25,
@@ -197,7 +197,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 25,
         timestamp: "2024-01-25 13:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 26,
@@ -205,7 +205,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 26,
         timestamp: "2024-01-26 17:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 27,
@@ -213,7 +213,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 27,
         timestamp: "2024-01-27 22:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 28,
@@ -221,7 +221,7 @@ export default [
         content: "The restroom was clean and well-maintained. Would recommend.",
         washroom_id: 28,
         timestamp: "2024-01-28 02:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 29,
@@ -229,7 +229,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 29,
         timestamp: "2024-01-29 06:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 30,
@@ -237,7 +237,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 30,
         timestamp: "2024-01-30 10:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 31,
@@ -245,7 +245,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 1,
         timestamp: "2024-01-31 15:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 32,
@@ -253,7 +253,7 @@ export default [
         content: "Clean and well-maintained restroom. No issues.",
         washroom_id: 2,
         timestamp: "2024-02-01 19:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 33,
@@ -261,7 +261,7 @@ export default [
         content: "The restroom was clean and well-lit. Pleasant experience.",
         washroom_id: 3,
         timestamp: "2024-02-02 23:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 34,
@@ -269,7 +269,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 4,
         timestamp: "2024-02-03 03:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 35,
@@ -277,7 +277,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 5,
         timestamp: "2024-02-04 08:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 36,
@@ -285,7 +285,7 @@ export default [
         content: "The restroom was clean and well-lit. No issues.",
         washroom_id: 6,
         timestamp: "2024-02-05 12:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 37,
@@ -293,7 +293,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 7,
         timestamp: "2024-02-06 16:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 38,
@@ -301,7 +301,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 8,
         timestamp: "2024-02-07 20:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 39,
@@ -309,7 +309,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 9,
         timestamp: "2024-02-08 01:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 40,
@@ -317,7 +317,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 10,
         timestamp: "2024-02-09 05:15:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 41,
@@ -325,7 +325,7 @@ export default [
         content: "The restroom was clean and well-maintained. Would recommend.",
         washroom_id: 11,
         timestamp: "2024-02-10 09:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 42,
@@ -333,7 +333,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 12,
         timestamp: "2024-02-11 13:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 43,
@@ -341,7 +341,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 13,
         timestamp: "2024-02-12 18:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 44,
@@ -349,7 +349,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 14,
         timestamp: "2024-02-13 22:15:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 45,
@@ -357,7 +357,7 @@ export default [
         content: "Clean and well-maintained restroom. No issues.",
         washroom_id: 15,
         timestamp: "2024-02-14 02:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 46,
@@ -365,7 +365,7 @@ export default [
         content: "The restroom was clean and well-lit. Pleasant experience.",
         washroom_id: 16,
         timestamp: "2024-02-15 06:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 47,
@@ -373,7 +373,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 17,
         timestamp: "2024-02-16 11:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 48,
@@ -381,7 +381,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 18,
         timestamp: "2024-02-17 15:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 49,
@@ -389,7 +389,7 @@ export default [
         content: "The restroom was clean and well-lit. No issues.",
         washroom_id: 19,
         timestamp: "2024-02-18 19:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 50,
@@ -397,7 +397,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 20,
         timestamp: "2024-02-19 23:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 51,
@@ -405,7 +405,7 @@ export default [
         content: "Clean and well-maintained restroom. Pleasant experience.",
         washroom_id: 21,
         timestamp: "2024-02-20 04:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 52,
@@ -413,7 +413,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 22,
         timestamp: "2024-02-21 08:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 53,
@@ -421,7 +421,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 23,
         timestamp: "2024-02-22 12:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 54,
@@ -429,7 +429,7 @@ export default [
         content: "Clean and well-maintained restroom. Would recommend.",
         washroom_id: 24,
         timestamp: "2024-02-23 16:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 55,
@@ -437,7 +437,7 @@ export default [
         content: "Decent restroom. Hand dryer was not working.",
         washroom_id: 25,
         timestamp: "2024-02-24 21:00:00",
-        rating: 2,
+        rating: 2
     },
     {
         id: 56,
@@ -445,7 +445,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 26,
         timestamp: "2024-02-25 01:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 57,
@@ -453,7 +453,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 27,
         timestamp: "2024-02-26 05:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 58,
@@ -461,7 +461,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 28,
         timestamp: "2024-02-27 09:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 59,
@@ -469,7 +469,7 @@ export default [
         content: "The restroom was clean and well-maintained. Would recommend.",
         washroom_id: 29,
         timestamp: "2024-02-28 14:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 60,
@@ -477,7 +477,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 30,
         timestamp: "2024-02-29 18:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 61,
@@ -485,7 +485,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 1,
         timestamp: "2024-03-01 22:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 62,
@@ -493,7 +493,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 2,
         timestamp: "2024-03-02 02:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 63,
@@ -501,7 +501,7 @@ export default [
         content: "Clean and well-maintained restroom. No issues.",
         washroom_id: 3,
         timestamp: "2024-03-03 07:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 64,
@@ -509,7 +509,7 @@ export default [
         content: "The restroom was clean and well-lit. Pleasant experience.",
         washroom_id: 4,
         timestamp: "2024-03-04 11:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 65,
@@ -517,7 +517,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 5,
         timestamp: "2024-03-05 15:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 66,
@@ -525,7 +525,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 6,
         timestamp: "2024-03-06 19:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 67,
@@ -533,7 +533,7 @@ export default [
         content: "The restroom was clean and well-lit. No issues.",
         washroom_id: 7,
         timestamp: "2024-03-07 00:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 68,
@@ -541,7 +541,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 8,
         timestamp: "2024-03-08 04:15:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 69,
@@ -549,7 +549,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 9,
         timestamp: "2024-03-09 08:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 70,
@@ -557,7 +557,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 10,
         timestamp: "2024-03-10 12:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 71,
@@ -565,7 +565,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 11,
         timestamp: "2024-03-11 17:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 72,
@@ -573,7 +573,7 @@ export default [
         content: "Clean and well-maintained restroom. Would recommend.",
         washroom_id: 12,
         timestamp: "2024-03-12 21:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 73,
@@ -581,7 +581,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 13,
         timestamp: "2024-03-13 01:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 74,
@@ -589,7 +589,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 14,
         timestamp: "2024-03-14 05:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 75,
@@ -597,7 +597,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 15,
         timestamp: "2024-03-15 10:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 76,
@@ -605,7 +605,7 @@ export default [
         content: "Clean and well-maintained restroom. Pleasant experience.",
         washroom_id: 16,
         timestamp: "2024-03-16 14:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 77,
@@ -613,7 +613,7 @@ export default [
         content: "The restroom was clean and tidy. No issues.",
         washroom_id: 17,
         timestamp: "2024-03-17 18:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 78,
@@ -621,7 +621,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 18,
         timestamp: "2024-03-18 22:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 79,
@@ -629,7 +629,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 19,
         timestamp: "2024-03-19 03:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 80,
@@ -637,7 +637,7 @@ export default [
         content: "The restroom was clean and well-lit. No issues.",
         washroom_id: 20,
         timestamp: "2024-03-20 07:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 81,
@@ -645,7 +645,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 21,
         timestamp: "2024-03-21 11:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 82,
@@ -653,7 +653,7 @@ export default [
         content: "Clean and well-maintained restroom. Would recommend.",
         washroom_id: 22,
         timestamp: "2024-03-22 15:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 83,
@@ -661,7 +661,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 23,
         timestamp: "2024-03-23 20:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 84,
@@ -669,7 +669,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 24,
         timestamp: "2024-03-24 00:15:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 85,
@@ -677,7 +677,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 25,
         timestamp: "2024-03-25 04:30:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 86,
@@ -685,7 +685,7 @@ export default [
         content: "Clean and well-maintained restroom.",
         washroom_id: 26,
         timestamp: "2024-03-26 08:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 87,
@@ -693,7 +693,7 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 27,
         timestamp: "2024-03-27 13:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 88,
@@ -701,7 +701,7 @@ export default [
         content: "Decent restroom. Could improve cleanliness.",
         washroom_id: 28,
         timestamp: "2024-03-28 17:15:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 89,
@@ -709,7 +709,7 @@ export default [
         content: "The restroom was clean and well-maintained. Would recommend.",
         washroom_id: 29,
         timestamp: "2024-03-29 21:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 90,
@@ -717,7 +717,7 @@ export default [
         content: "Clean restroom. Pleasant experience overall.",
         washroom_id: 30,
         timestamp: "2024-03-30 01:45:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 91,
@@ -725,7 +725,7 @@ export default [
         content: "The restroom was clean and well-lit. Good hygiene.",
         washroom_id: 1,
         timestamp: "2024-03-31 06:00:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 92,
@@ -733,7 +733,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 2,
         timestamp: "2024-04-01 10:15:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 93,
@@ -741,7 +741,7 @@ export default [
         content: "Clean and well-maintained restroom. No issues.",
         washroom_id: 3,
         timestamp: "2024-04-02 14:30:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 94,
@@ -749,7 +749,7 @@ export default [
         content: "The restroom was clean and well-lit. Pleasant experience.",
         washroom_id: 4,
         timestamp: "2024-04-03 18:45:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 95,
@@ -757,7 +757,7 @@ export default [
         content: "Decent restroom. Could use more ventilation.",
         washroom_id: 5,
         timestamp: "2024-04-04 23:00:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 96,
@@ -765,7 +765,7 @@ export default [
         content: "Clean and spacious restroom. Well-maintained.",
         washroom_id: 6,
         timestamp: "2024-04-05 03:15:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 97,
@@ -773,7 +773,7 @@ export default [
         content: "The restroom was clean and well-lit. No issues.",
         washroom_id: 7,
         timestamp: "2024-04-06 07:30:00",
-        rating: 5,
+        rating: 5
     },
     {
         id: 98
@@ -783,7 +783,7 @@ export default [
         content: "Decent restroom. Could use more amenities.",
         washroom_id: 8,
         timestamp: "2024-04-07 11:45:00",
-        rating: 3,
+        rating: 3
     },
     {
         id: 99,
@@ -791,7 +791,7 @@ export default [
         content: "Clean and well-maintained restroom. Pleasant experience.",
         washroom_id: 9,
         timestamp: "2024-04-08 16:00:00",
-        rating: 4,
+        rating: 4
     },
     {
         id: 100,
@@ -799,6 +799,6 @@ export default [
         content: "The restroom was clean and tidy. No complaints.",
         washroom_id: 10,
         timestamp: "2024-04-09 20:15:00",
-        rating: 5,
+        rating: 5
     },
 ];

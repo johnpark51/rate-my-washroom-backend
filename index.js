@@ -10,8 +10,6 @@ const PORT = process.env.PORT || 5050;
 const app = express();
 app.use(express.static("public"));
 
-app.use(cors());
-
 /* MIDDLEWARE */
 app.use(
 	cors({
